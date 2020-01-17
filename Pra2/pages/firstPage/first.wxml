@@ -1,0 +1,5 @@
+wo shi yang xing xing!
+
+<button type="default" hover-class="other-button-hover"> default </button>
+<button type="primary" primary </button>
+<button type="warn" warn </button>
